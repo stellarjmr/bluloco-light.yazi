@@ -6,6 +6,10 @@ A light [Yazi](https://github.com/sxyazi/yazi) flavor based on the [Bluloco](htt
 
 This flavor brings Bluloco's colorful light palette to Yazi's file manager interface.
 
+## Compatibility
+
+Maintained against Yazi/Ya `26.5.6`.
+
 ## Installation
 
 ### Yazi Package Manager
@@ -18,7 +22,7 @@ ya pkg add stellarjmr/bluloco-light
 
 Copy the `bluloco-light.yazi` directory to:
 - Linux/macOS: `~/.config/yazi/flavors/`
-- Windows: `%APPDATA%\\yazi\\config\\flavors\\`
+- Windows: `%APPDATA%\yazi\config\flavors\`
 
 ## Usage
 
